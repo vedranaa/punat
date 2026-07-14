@@ -1,0 +1,10 @@
+title: Summer Holidays
+description: Writings about summer holidays
+author: Vedrana
+
+theme: minima
+minima:
+  skin: solarized
+
+plugins:
+  - jekyll-feed
