@@ -1,6 +1,7 @@
 # punat
 
-A GitHub Pages blog for summer holiday writings — Markdown posts with a clean, readable view powered by [Jekyll](https://jekyllrb.com) and the [Minima](https://github.com/jekyll/minima) theme.
+A GitHub Pages for writings about our holiday home in Punat — Markdown posts with a clean, readable view powered by [Jekyll](https://jekyllrb.com) and the [Minima](https://github.com/jekyll/minima) theme. The pages are live at [https://vedranaa.github.io/punat/](https://vedranaa.github.io/punat/).
+ 
 
 ## Adding a new post
 
